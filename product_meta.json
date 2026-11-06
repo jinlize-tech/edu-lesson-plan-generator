@@ -1,0 +1,24 @@
+{
+  "number": 30,
+  "product_id": "JLZ-EDU-SK-024",
+  "chinese_name": "教案设计",
+  "english_name": "Lesson Plan Generator",
+  "repository_name": "edu-lesson-plan-generator",
+  "product_type": "Skill",
+  "category": "03 教学教研中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-lesson-plan-generator-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "年级学科、教材版本、课次主题、课时、学情、教学目标和可用资源",
+  "main_output": "完整教案、教学重难点、流程、提问、活动、板书、作业和反思提示",
+  "package_entries": [
+    "edu-lesson-plan-generator/SKILL.md",
+    "edu-lesson-plan-generator/references/DOMAIN_GUIDE.md",
+    "edu-lesson-plan-generator/references/EXAMPLES.md",
+    "edu-lesson-plan-generator/templates/OUTPUT_TEMPLATE.md"
+  ]
+}
