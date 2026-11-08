@@ -1,6 +1,9 @@
 {
+  "scenario_name": "incomplete",
+  "business_context": "用户在教案设计任务开始阶段只提供了少量资料。",
   "inputs": {
-    "年级学科": "已提供并确认：年级学科"
+    "年级学科": "标准合成场景｜小学数学思维训练，五年级，春季班",
+    "教材版本": "标准合成场景｜小学数学思维训练，五年级，春季班"
   },
   "data_status": "confirmed",
   "conflicts": [],
